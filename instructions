@@ -1,6 +1,7 @@
 1. first you must make the setup using a 9g servo motor, HC-SRO4 ultrasonic sensor, breadboard, jumper-wires and an arduino uno
     the diagram to the setup is provided in the repo as "setup diagram"
-2. you must either copy and paste the ino file for the radar code "Radar_Code.ino" into the arduino IDE OR copy and paste the "Arduino_code.txt" into the arduino IDE
+2. you must either copy and paste the ino file for the radar code "Radar_Code.ino" into the arduino IDE OR copy and paste the "Arduino_code.txt"  
+    into the arduino IDE
 3. go to the "processing download" folder and click the link, this will send you to my webpage which will allow you to download the .ZIP file 
 4. extract the .ZIP files
 5. copy and paste the "processing code.txt" into the workspace in the processing application.
